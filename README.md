@@ -1,16 +1,43 @@
-## Hi there 👋
+**Hi, I'm Prabhleen Kaur 👋**
+B.Tech CSE (AI & ML) Student
 
-<!--
-**prabhleen-17/prabhleen-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student currently building my foundation in software development, problem-solving, and artificial intelligence.
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML)
+💻 Currently learning Data Structures & Algorithms in Java
+🌐 Exploring Frontend Development
+🏫 Contributing to my University's Official Website
+🚀 Currently focused on improving my programming and development skills
+🛠️ Technologies I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+Java
+Python
+
+**Web Development**
+HTML
+CSS
+JavaScript
+
+**Tools**
+Git
+GitHub
+Antigravity
+
+**📌 Current Focus**
+DSA in Java
+      ↓
+Problem Solving
+      ↓
+Web Development
+      ↓
+Backend Development
+      ↓
+AI / ML
+📂 Featured Projects
+
+More projects coming soon as I continue learning and building.
+
+🤝 Connect With Me
+LinkedIn: [Add your LinkedIn]
+GitHub: @prabhleen-17
